@@ -4,7 +4,6 @@
     "template": {
         "type": "separate",
         "layout": "0,0,4,2",
-        "icon": "msx-white-soft:movie",
         "color": "msx-glass"
     },
     "items": [
@@ -24,17 +23,20 @@
         {
             "title": "destruction 3 2 1 in idk quality",
             "playerLabel": "destruction 3 2 1 in idk quality",
+            "layout": "0,0,12,2",
             "image": "https://khoicookie.github.io/msx/data/images/destruction 3 2 1 in idk quality.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/destruction 3 2 1 in idk quality.mp4"
         },
         {
             "title": "job run",
             "playerLabel": "job run",
+            "layout": "0,0,12,2",
             "image": "https://khoicookie.github.io/msx/data/images/job run.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/job run.mp4"
         }
     ]
 }
+
 
 
 
