@@ -4,7 +4,7 @@
         {
             "icon": "info",
             "label": "Hello!",
-            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+            "data": "https://khoicookie.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
@@ -17,6 +17,7 @@
         }
     ]
 }
+
 
 
 
