@@ -6,6 +6,7 @@
         "imageFiller": "cover",
         "icon": "msx-white-soft:movie",
         "color": "msx-glass",
+        },
     "items": [
         {
             "type": "teaser",
@@ -37,4 +38,5 @@
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         }
     ]
+
 }
