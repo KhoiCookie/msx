@@ -9,6 +9,7 @@
     },
     "items": [
         {
+            "type": "teaser",
             "title": "Bean's Jiggy",
             "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
@@ -19,10 +20,11 @@
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
-            "title": "Video 3",
-            "playerLabel": "Video 3",
+            "title": "Bean's Jiggy",
+            "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         }
     ]
 
 }
+
