@@ -9,11 +9,11 @@
     },
     "items": [
         {
-            "tag": "{msx-white:star}",
+            "tag": "OG",
             "tagColor": "msx-glass",
-            "badge": "{msx-grey:nights-stay} the first ever video",
+            "badge": "the first ever video",
             "badgeColor": "msx-white",
-            "layout": "4,2,1,1",
+            "layout": "0,0,4,2",
             "title": "Bean's Jiggy",
             "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
@@ -31,6 +31,7 @@
     ]
 
 }
+
 
 
 
