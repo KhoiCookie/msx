@@ -10,12 +10,12 @@
                 {
                     "type": "teaser",
                     "layout": "0,0,12,3",
-                    "badge": "Cras sapien tortor",
+                    "badge": "✦ Featured • Random's Submission",
                     "color": "msx-glass",
                     "image": "https://picsum.photos/seed/msx_24764bb8_bg/1704/408",
                     "imageFiller": "cover",
-                    "title": "Orci varius natoque penatibus et",
-                    "titleFooter": "Press {txt:msx-white:OK} to reload content",
+                    "title": "FentMangos's Jump Rope",
+                    "titleFooter": "Best jump rope in 'Just a Baseplate!'",
                     "action": "[invalidate:content|reload:content]"
                 }
             ]
@@ -171,4 +171,5 @@
         }
     ]
 }
+
 
