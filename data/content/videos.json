@@ -1,12 +1,6 @@
 {
     "type": "pages",
     "headline": "Videos",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,3,2",
-        "icon": "msx-white-soft:movie",
-        "color": "msx-glass"
-    },
     "items": [
         {
             "type": "teaser",
@@ -23,17 +17,26 @@
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
+            "type": "separate",
+            "layout": "0,0,3,2",
+            "icon": "msx-white-soft:movie",
+            "color": "msx-glass"
             "title": "Video 2",
             "playerLabel": "Video 2",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
+            "type": "separate",
+            "layout": "0,0,3,2",
+            "icon": "msx-white-soft:movie",
+            "color": "msx-glass"
             "title": "Bean's Jiggy",
             "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         }
     ]
 }
+
 
 
 
