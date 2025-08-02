@@ -3,6 +3,7 @@
     "headline": "Videos",
     "template": {
         "type": "separate",
+        "layout": "0,0,12,3"
         "imageFiller": "cover",
         "icon": "msx-white-soft:movie",
         "color": "msx-glass"
@@ -39,6 +40,7 @@
         }
     ]
 }
+
 
 
 
