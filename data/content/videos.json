@@ -26,13 +26,14 @@
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
-            "title": "Bean's Jiggy"
+            "title": "Bean's Jiggy",
             "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         }
     ]
 
 }
+
 
 
 
