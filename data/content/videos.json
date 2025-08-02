@@ -3,6 +3,7 @@
     "headline": "Videos",
     "items": [
         {
+            "icon": "msx-white-soft:movie",
             "type": "teaser",
             "color": "msx-glass",
             "tag": "OG",
@@ -36,6 +37,7 @@
         }
     ]
 }
+
 
 
 
