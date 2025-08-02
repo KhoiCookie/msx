@@ -9,19 +9,20 @@
     },
     "items": [
         {
-            "title": "Video 1",
-            "playerLabel": "Video 1",
-            "action": "video:http://msx.benzac.de/media/video1.mp4"
+            "title": "Bean's Jiggy",
+            "playerLabel": "Bean's Jiggy",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
             "title": "Video 2",
             "playerLabel": "Video 2",
-            "action": "video:http://msx.benzac.de/media/video2.mp4"
+            "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
             "title": "Video 3",
             "playerLabel": "Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         }
     ]
+
 }
