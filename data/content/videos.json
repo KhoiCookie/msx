@@ -3,7 +3,7 @@
     "headline": "Videos",
     "template": {
         "type": "separate",
-        "layout": "0,0,4,2",
+        "layout": "0,0,3,2",
         "icon": "msx-white-soft:movie",
         "color": "msx-glass"
     },
@@ -15,7 +15,7 @@
             "tagColor": "msx-glass",
             "badge": "the first ever video",
             "badgeColor": "msx-white",
-            "layout": "0,0,11,2",
+            "layout": "0,0,12,2",
             "image": "https://khoicookie.github.io/msx/data/images/jiggy.jpg",
             "title": "Bean's Jiggy",
             "titleFooter": "Watch {txt:msx-white:Bean} jiggy it! :3",
@@ -34,6 +34,7 @@
         }
     ]
 }
+
 
 
 
