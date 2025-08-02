@@ -1,7 +1,7 @@
 {
     "type": "list",
     "headline": "Videos",
-        "template": {
+    "template": {
         "type": "separate",
         "imageFiller": "cover",
         "icon": "msx-white-soft:movie",
@@ -40,4 +40,5 @@
     ]
 
 }
+
 
