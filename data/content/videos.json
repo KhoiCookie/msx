@@ -9,7 +9,6 @@
     },
     "items": [
         {
-            "type": "teaser",
             "tag": "{msx-white:star}",
             "tagColor": "msx-glass",
             "badge": "{msx-grey:nights-stay} the first ever video",
@@ -32,5 +31,6 @@
     ]
 
 }
+
 
 
