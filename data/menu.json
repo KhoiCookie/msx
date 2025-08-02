@@ -1,0 +1,11 @@
+{
+  "type": "videos",
+  "headline": "Animation",
+  "items": [
+    {
+      "title": "Bean's Jiggy",
+      "action": "video:videos/jiggy.mp4",
+      "image": "images/jiggy.jpg"
+    }
+  ]
+}
