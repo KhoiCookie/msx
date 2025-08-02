@@ -1,6 +1,5 @@
 {    
-    "name": "Start Parameter Name",
+    "name": "Starlightz",
     "version": "1.0.0",
-    "parameter": "menu:http://link.to.menu",
-    "welcome": "none"
+    "parameter": "menu:https://khoicookie.github.io/msx/data/menu.json",
 }
