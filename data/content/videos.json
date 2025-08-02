@@ -10,6 +10,8 @@
     },
     "items": [
         {
+            "type": "teaser",
+            "layout": "0,0,12,3",
             "tag": "OG",
             "tagColor": "msx-glass",
             "badge": "the first ever video",
@@ -17,6 +19,7 @@
             "layout": "0,0,11,2",
             "image": "https://khoicookie.github.io/msx/data/images/jiggy.jpg",
             "title": "Bean's Jiggy",
+            "titleFooter": "Watch {txt:msx-white:Bean} jiggy it! :3",
             "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
@@ -33,6 +36,7 @@
     ]
 
 }
+
 
 
 
