@@ -16,7 +16,7 @@
                     "imageFiller": "cover",
                     "title": "FentMangos's Jump Rope",
                     "titleFooter": "Best jump rope in 'Just a Baseplate!'",
-                    "action": "[invalidate:content|reload:content]"
+                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/FentMangos Jump Rope.mp4"
                 }
             ]
         },
@@ -27,7 +27,7 @@
                     "type": "space",
                     "layout": "1,0,11,1",
                     "offset": "-1,0,1,-0.5",
-                    "headline": "First Page {txt:msx-white-soft:(30)}"
+                    "headline": "Bean's Submissions {txt:msx-white-soft:(2)}"
                 },
                 {
                     "type": "default",
@@ -36,15 +36,13 @@
                     "group": "id:page0",
                     "layout": "0,1,3,3",
                     "offset": "0,-0.5,0,0",
-                    "enumerate": true,
                     "color": "msx-glass",
-                    "titleHeader": "{col:msx-white}First Item",
-                    "titleFooter": "Duis rutrum orci purus",
+                    "titleHeader": "gravidy",
+                    "titleFooter": "i'm falling!!!",
                     "imageFiller": "cover",
+                    "playerLabel": "gravidy",
                     "image": "https://picsum.photos/seed/msx_24764bb8_item0/408/252",
-                    "action": "image:https://picsum.photos/seed/msx_24764bb8_item0/1920/1080",
-                    "properties": {
-                        "image:extension": "| {col:msx-white}First Item"
+                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/gravidy.mp4",
                     }
                 },
                 {
@@ -56,31 +54,12 @@
                     "offset": "0,-0.5,0,0",
                     "enumerate": true,
                     "color": "msx-glass",
-                    "titleHeader": "{col:msx-white}Second Item",
-                    "titleFooter": "Orci varius natoque penatibus et",
+                    "titleHeader": "squish",
+                    "titleFooter": "owwww....",
                     "imageFiller": "cover",
+                    "playerLabel": "squish",
                     "image": "https://picsum.photos/seed/msx_24764bb8_item1/408/252",
-                    "action": "image:https://picsum.photos/seed/msx_24764bb8_item1/1920/1080",
-                    "properties": {
-                        "image:extension": "| {col:msx-white}Second Item"
-                    }
-                },
-                {
-                    "type": "default",
-                    "wrapperColor": "msx-glass",
-                    "imageHeight": 1.75,
-                    "group": "id:page0",
-                    "layout": "6,1,3,3",
-                    "offset": "0,-0.5,0,0",
-                    "enumerate": true,
-                    "color": "msx-glass",
-                    "titleHeader": "{col:msx-white}Third Item",
-                    "titleFooter": "Sed et sem augue",
-                    "imageFiller": "cover",
-                    "image": "https://picsum.photos/seed/msx_24764bb8_item2/408/252",
-                    "action": "image:https://picsum.photos/seed/msx_24764bb8_item2/1920/1080",
-                    "properties": {
-                        "image:extension": "| {col:msx-white}Third Item"
+                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/squish.mp4",
                     }
                 },
                 {
@@ -171,5 +150,6 @@
         }
     ]
 }
+
 
 
