@@ -4,6 +4,7 @@
     "items": [
         {
             "type": "teaser",
+            "imageFiller": "cover",
             "icon": "msx-white-soft:movie",
             "color": "msx-glass"
             "layout": "0,0,12,3",
@@ -21,6 +22,7 @@
         {
             "title": "Video 2",
             "playerLabel": "Video 2",
+            "imageFiller": "cover",
             "type": "separate",
             "icon": "msx-white-soft:movie",
             "color": "msx-glass"
@@ -40,6 +42,7 @@
     ]
 
 }
+
 
 
 
