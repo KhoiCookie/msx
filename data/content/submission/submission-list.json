@@ -42,7 +42,7 @@
                     "imageFiller": "cover",
                     "playerLabel": "gravidy",
                     "image": "https://picsum.photos/seed/msx_24764bb8_item0/408/252",
-                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/gravidy.mp4",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/gravidy.mp4"
                 },
                 {
                     "type": "default",
@@ -58,7 +58,7 @@
                     "imageFiller": "cover",
                     "playerLabel": "squish",
                     "image": "https://picsum.photos/seed/msx_24764bb8_item1/408/252",
-                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/squish.mp4",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos//submissions/squish.mp4"
                 },
                 {
                     "type": "button",
@@ -130,6 +130,7 @@
         }
     ]
 }
+
 
 
 
