@@ -8,6 +8,12 @@
     },
     "items": [
         {
+            "type": "space",
+            "layout": "1,0,11,1",
+            "offset": "-1,0,1,-0.5",
+            "headline": "{ico:msx-blue:sports-kabaddi} • Animation {txt:msx-white-soft:(1)}"
+        },
+        {
             "type": "teaser",
             "tag": "OG",
             "tagColor": "msx-glass",
@@ -20,19 +26,26 @@
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
         },
         {
-            "title": "destruction 3 2 1 in idk quality",
+            "type": "space",
+            "layout": "1,0,11,1",
+            "offset": "-1,0,1,-0.5",
+            "headline": "{ico:msx-red:pentagon} • Random {txt:msx-white-soft:(2)}"
+        },
+        {
+            "title": "{col:msx-white-soft} destruction 3 2 1 in idk quality",
             "playerLabel": "destruction 3 2 1 in idk quality",
             "image": "https://khoicookie.github.io/msx/data/images/destruction 3 2 1 in idk quality.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/destruction 3 2 1 in idk quality.mp4"
         },
         {
-            "title": "job run",
+            "title": "{col:msx-white-soft} job run",
             "playerLabel": "job run",
             "image": "https://khoicookie.github.io/msx/data/images/job run.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/job run.mp4"
         }
     ]
 }
+
 
 
 
