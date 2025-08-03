@@ -25,13 +25,13 @@
                 },
                 {
                     "type": "default",
-                    "layout": "1,0,6,6",
+                    "layout": "12,0,6,6",
                     "color": "msx-glass",
                     "imageFiller": "cover",
                     "image": "https://khoicookie.github.io/msx/data/images/IMG_6142.jpg"},
                 {
                     "type": "default",
-                    "layout": "1,0,12,6",
+                    "layout": "24,0,12,6",
                     "color": "msx-glass",
                     "headline": "Have questions?",
                     "text": [
