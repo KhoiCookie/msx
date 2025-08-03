@@ -230,9 +230,45 @@
             "playerLabel": "lobotomized europapa",
             "image": "https://khoicookie.github.io/msx/data/images/lobotomized europapa.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/lobotomized europapa.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} SPEEDRUNNING MINI WORLD HORROR MAP - with @Windows7777z and @duonghai859",
+            "titleFooter": "{ico:access-time} 00:09:10",
+            "playerLabel": "SPEEDRUNNING MINI WORLD HORROR MAP - with @Windows7777z and @duonghai859",
+            "image": "https://khoicookie.github.io/msx/data/images/SPEEDRUNNING MINI WORLD HORROR MAP - with @Windows7777z and @duonghai859.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/SPEEDRUNNING MINI WORLD HORROR MAP - with @Windows7777z and @duonghai859.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} Defeating the final boss (with @duonghai859)",
+            "titleFooter": "{ico:access-time} 00:03:17",
+            "playerLabel": "Defeating the final boss (with @duonghai859)",
+            "image": "https://khoicookie.github.io/msx/data/images/Defeating the final boss (with @duonghai859).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Defeating the final boss (with @duonghai859).mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} Goofy Ahh Tree",
+            "titleFooter": "{ico:access-time} 00:00:15",
+            "playerLabel": "Goofy Ahh Tree",
+            "image": "https://khoicookie.github.io/msx/data/images/Goofy Ahh Tree.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Goofy Ahh Tree.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} eletricity be like",
+            "titleFooter": "{ico:access-time} 00:05:40",
+            "playerLabel": "eletricity be like",
+            "image": "https://khoicookie.github.io/msx/data/images/eletricity be like.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/eletricity be like.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} herbal tylenol",
+            "titleFooter": "{ico:access-time} 00:01:51",
+            "playerLabel": "herbal tylenol",
+            "image": "https://khoicookie.github.io/msx/data/images/herbal tylenol.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/herbal tylenol.mp4"
         }
     ]
 }
+
 
 
 
