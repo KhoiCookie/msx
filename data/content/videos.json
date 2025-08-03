@@ -211,10 +211,10 @@
             "action": "video:https://khoicookie.github.io/msx/data/videos/get real.mp4"
         },
         {
-            "title": "{col:msx-white-soft} pc gets nuked by a fake website (100 real no fake)",
+            "title": "{col:msx-white-soft} pc gets nuked by a fake website (100% real no fake)",
             "titleFooter": "{ico:access-time} 00:01:04",
-            "playerLabel": "pc gets nuked by a fake website (100 real no fake)",
-            "image": "https://khoicookie.github.io/msx/data/images/pc gets nuked by a fake website (100 real no fake).png",
+            "playerLabel": "pc gets nuked by a fake website (100% real no fake)",
+            "image": "https://khoicookie.github.io/msx/data/images/pc gets nuked by a fake website (100% real no fake).png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/pc gets nuked by a fake website (100 real no fake).mp4"
         },
         {
@@ -233,6 +233,7 @@
         }
     ]
 }
+
 
 
 
