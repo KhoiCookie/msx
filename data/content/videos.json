@@ -132,9 +132,17 @@
             "playerLabel": "i got slapped",
             "image": "https://khoicookie.github.io/msx/data/images/i got slapped.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/i got slapped.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} idkmods gameplay part 1",
+            "titleFooter": "{ico:access-time} 00:07:16",
+            "playerLabel": "idkmods gameplay part 1",
+            "image": "https://khoicookie.github.io/msx/data/images/idkmods gameplay part 1.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/idkmods gameplay part 1.mp4"
         }
     ]
 }
+
 
 
 
