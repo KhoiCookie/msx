@@ -2,8 +2,8 @@
     "menu": [{
             "data": {               
                 "pages": [{                        
-                        "items": [{
-                                "type": "default",
+			"items": [{
+                                "type": "pages",
                                 "layout": "0,0,12,6",                                 
                                 "color": "msx-glass",
                                 "headline": "Welcome to {app:name}",
@@ -25,14 +25,14 @@
                             }]
                     }, {
                         "items": [{
-					"type": "default",
+					"type": "pages",
 					"layout": "0,0,6,6",
 					"color": "msx-glass",
 					"imageFiller": "cover",
 					"image": "https://khoicookie.github.io/msx/data/images/IMG_6142.jpg"
 				},
 				{
-				"type": "default",
+				"type": "pages",
 				"layout": "0,0,6,6",
 				"color": "msx-glass",
 				"headline": "Have questions?",
