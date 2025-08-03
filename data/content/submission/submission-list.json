@@ -123,7 +123,7 @@
                     "titleHeader": "{col:msx-white}SCP 173 doesn't hurt you",
                     "titleFooter": "{ico:access-time} 00:00:13",
                     "imageFiller": "cover",
-                    "playerLabel": "GET BACK HERE",
+                    "playerLabel": "SCP 173 doesn't hurt you",
                     "image": "https://khoicookie.github.io/msx/data/images/SCP 173 doesn't hurt you.png",
                     "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/SCP 173 doesn't hurt you.mp4"
                 },
@@ -257,6 +257,7 @@
         }
     ]
 }
+
 
 
 
