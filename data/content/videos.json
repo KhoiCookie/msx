@@ -13,7 +13,6 @@
             "tagColor": "msx-glass",
             "badge": "the first ever video",
             "badgeColor": "msx-white",
-            "layout": "0,0,12,2",
             "image": "https://khoicookie.github.io/msx/data/images/jiggy.jpg",
             "title": "Bean's Jiggy",
             "titleFooter": "Watch {txt:msx-white:Bean} jiggy it! :3",
@@ -23,19 +22,18 @@
         {
             "title": "destruction 3 2 1 in idk quality",
             "playerLabel": "destruction 3 2 1 in idk quality",
-            "layout": "0,0,12,2",
             "image": "https://khoicookie.github.io/msx/data/images/destruction 3 2 1 in idk quality.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/destruction 3 2 1 in idk quality.mp4"
         },
         {
             "title": "job run",
             "playerLabel": "job run",
-            "layout": "0,0,12,2",
             "image": "https://khoicookie.github.io/msx/data/images/job run.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/job run.mp4"
         }
     ]
 }
+
 
 
 
