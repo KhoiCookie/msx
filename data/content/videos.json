@@ -188,7 +188,22 @@
             "playerLabel": "Deep sea bunny crossing",
             "image": "https://khoicookie.github.io/msx/data/images/Deep sea bunny crossing.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/Deep sea bunny crossing.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} world war 3 in mini world",
+            "titleFooter": "{ico:access-time} 00:02:32",
+            "playerLabel": "world war 3 in mini world",
+            "image": "https://khoicookie.github.io/msx/data/images/world war 3 in mini world.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/world war 3 in mini world.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} [PART 1] Mini World Let's Play! (ft. @wot69)",
+            "titleFooter": "{ico:access-time} 00:10:55",
+            "playerLabel": "[PART 1] Mini World Let's Play! (ft. @wot69)",
+            "image": "https://khoicookie.github.io/msx/data/images/[PART 1] Mini World Let's Play! (ft. @wot69).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/[PART 1] Mini World Let's Play! (ft. @wot69).mp4"
         }
     ]
 }
+
 
