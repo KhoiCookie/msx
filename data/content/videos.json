@@ -271,10 +271,11 @@
             "titleFooter": "{ico:access-time} 00:01:52",
             "playerLabel": "ice asmr or smth",
             "image": "https://khoicookie.github.io/msx/data/images/ice asmr or smth.png",
-            "action": "video:video:https://khoicookie.github.io/msx/data/videos/ice asmr or smth.mp4"
+            "action": "video:https://khoicookie.github.io/msx/data/videos/ice asmr or smth.mp4"
         }
     ]
 }
+
 
 
 
