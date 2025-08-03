@@ -2,7 +2,7 @@
     "type": "list",
     "headline": "Videos",
     "template": {
-        "type": "separate",
+        "type": "default",
         "layout": "0,0,4,2",
         "color": "msx-glass"
     },
@@ -33,6 +33,7 @@
         }
     ]
 }
+
 
 
 
