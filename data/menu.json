@@ -14,14 +14,25 @@
             "icon": "movie-filter",
             "label": "Videos",
             "data": "https://khoicookie.github.io/msx/data/content/videos.json"
+            "extensionLabel": "11"
         },
         {
             "icon": "favorite",
             "label": "Submissions",
             "data": "https://khoicookie.github.io/msx/data/content/submission/submission-list.json"
         }
+        {
+            "type": "separator",
+            "label": "Contact"
+        },
+        {
+            "icon": "feedback",
+            "label": "Feedback",
+            "data": "https://khoicookie.github.io/msx/data/feedback.json"
+        },
     ]
 }
+
 
 
 
