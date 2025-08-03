@@ -30,15 +30,15 @@
         {
             "items": [
                 {
-                    {
                     "type": "default",
                     "layout": "0,0,6,6",
                     "color": "msx-glass",
                     "imageFiller": "cover",
-                    "image": "https://khoicookie.github.io/msx/data/images/IMG_6142.jpg"},
+                    "image": "https://khoicookie.github.io/msx/data/images/IMG_6142.jpg"}
+                },
                 {
                     "type": "default",
-                    "layout": "0,0,12,6",
+                    "layout": "0,0,6,6",
                     "color": "msx-glass",
                     "headline": "Have questions?",
                     "text": [
