@@ -162,7 +162,7 @@
                     "imageFiller": "cover",
                     "playerLabel": "job jumpscare",
                     "image": "https://khoicookie.github.io/msx/data/images/job jumpscare.png",
-                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/job jumpscare.mov"
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/job jumpscare.mp4"
                 },
                 {
                     "type": "default",
@@ -177,7 +177,7 @@
                     "imageFiller": "cover",
                     "playerLabel": "break camera",
                     "image": "https://khoicookie.github.io/msx/data/images/break camera.png",
-                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/break camera.mov"
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/break camera.mp4"
                 },
                 {
                     "type": "button",
@@ -227,6 +227,7 @@
         }
     ]
 }
+
 
 
 
