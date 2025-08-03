@@ -9,6 +9,33 @@
     },
     "items": [
         {
+            "type": "default",
+            "color": "msx-glass",
+            "icon": "msx-white-soft:replay",
+            "imageFiller": "cover",
+            "title": "Reload",
+            "titleFooter": "Click here to reload for new content.",
+            "action": "[invalidate:content|reload:content]"
+        },
+        {
+            "type": "default",
+            "color": "msx-glass",
+            "icon": "msx-white-soft:star",
+            "imageFiller": "cover",
+            "title": ":3",
+            "titleFooter": "Empty button",
+            "action": "info:{Hi.}"
+        },
+        {
+            "type": "default",
+            "color": "msx-glass",
+            "icon": "msx-white-soft:star",
+            "imageFiller": "cover",
+            "title": ":3c",
+            "titleFooter": "Nothing here yet.",
+            "action": "info:{Yeah there is really nothing here... Maybe it'll be used somehow?}"
+        },
+        {
             "type": "teaser",
             "tag": "OG",
             "tagColor": "msx-glass",
@@ -76,6 +103,7 @@
         }
     ]
 }
+
 
 
 
