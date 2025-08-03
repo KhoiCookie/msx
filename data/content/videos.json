@@ -38,7 +38,7 @@
             "badge": "CountryMation",
             "badgeColor": "msx-white",
             "title": "{col:msx-white-soft} sSMCaa51 trailer",
-            "playerLabel": "destruction 3 2 1 in idk quality",
+            "playerLabel": "sSMCaa51 trailer (CountryMation)",
             "image": "https://khoicookie.github.io/msx/data/images/sSMCaa51 trailer (countrymation).png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/sSMCaa51 trailer (countrymation).mp4"
         },
@@ -48,12 +48,23 @@
             "badge": "Windows7777",
             "badgeColor": "msx-white",
             "title": "{col:msx-white-soft} sSMCaa51 trailer",
-            "playerLabel": "destruction 3 2 1 in idk quality",
+            "playerLabel": "sSMCaa51 trailer (Windows7777)",
             "image": "https://khoicookie.github.io/msx/data/images/sSMCaa51 trailer (windows7777).png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/sSMCaa51 trailer (windows7777).mp4"
+        },
+        {
+            "tag": "►",
+            "tagColor": "msx-red",
+            "badge": "cowmeowpurr",
+            "badgeColor": "msx-red",
+            "title": "{col:msx-white-soft} random forsaken clips i have on my computer that are just dumb",
+            "playerLabel": "random forsaken clips i have on my computer that are just dumb",
+            "image": "https://khoicookie.github.io/msx/data/images/random forsaken clips i have on my computer that are just dumb.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/random forsaken clips i have on my computer that are just dumb.mp4"
         }
     ]
 }
+
 
 
 
