@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "First List",
+    "headline": "Submissions",
     "preload": "next",
     "pages": [
         {
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "headline": "First Page",
+            "headline": "Bean",
             "items": [
                 {
                     "type": "space",
@@ -87,7 +87,7 @@
                     "layout": "0,1,6,3",
                     "offset": "0,-0.5,0,-0.25",
                     "color": "msx-glass",
-                    "image": "https://picsum.photos/seed/msx_24764bb8_footer0/840/372",
+                    "icon": "msx-white-soft:replay",
                     "imageFiller": "cover",
                     "title": "Reload",
                     "titleFooter": "Click here to reload this page.",
@@ -98,7 +98,7 @@
                     "layout": "6,1,6,3",
                     "offset": "0,-0.5,0,-0.25",
                     "color": "msx-glass",
-                    "image": "https://picsum.photos/seed/msx_24764bb8_footer1/840/372",
+                    "icon": "msx-white-soft:smart-button",
                     "imageFiller": "cover",
                     "title": "A button?!?!",
                     "titleFooter": "This doesn't do anything... why bother?",
@@ -108,6 +108,7 @@
         }
     ]
 }
+
 
 
 
