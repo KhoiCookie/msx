@@ -265,9 +265,17 @@
             "playerLabel": "herbal tylenol",
             "image": "https://khoicookie.github.io/msx/data/images/herbal tylenol.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/herbal tylenol.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} ice asmr or smth",
+            "titleFooter": "{ico:access-time} 00:01:52",
+            "playerLabel": "ice asmr or smth",
+            "image": "https://khoicookie.github.io/msx/data/images/ice asmr or smth.png",
+            "action": "video:https://drive.google.com/file/d/19odx32D6e3Sb7CE74ihrwwL19i9Aziop/view"
         }
     ]
 }
+
 
 
 
