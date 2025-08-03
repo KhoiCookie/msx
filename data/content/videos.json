@@ -100,9 +100,35 @@
             "playerLabel": "grow a garden admin abuse part 1",
             "image": "https://khoicookie.github.io/msx/data/images/grow a garden admin abuse part 1.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/grow a garden admin abuse part 1.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} theyre shooting me with water",
+            "titleFooter": "{ico:access-time} 00:00:10",
+            "playerLabel": "theyre shooting me with water",
+            "image": "https://khoicookie.github.io/msx/data/images/theyre shooting me with water.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/theyre shooting me with water.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} mini world lobotomy",
+            "titleFooter": "{ico:access-time} 00:00:37",
+            "playerLabel": "mini world lobotomy",
+            "image": "https://khoicookie.github.io/msx/data/images/mini world lobotomy.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/mini world lobotomy.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "KhoiCookie & wot69",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} Smash Hit: Idkmods (Official Trailer)",
+            "titleFooter": "{ico:access-time} 00:01:03",
+            "playerLabel": "Smash Hit_ Idkmods (Official Trailer)",
+            "image": "https://khoicookie.github.io/msx/data/images/Smash Hit_ Idkmods (Official Trailer).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Smash Hit_ Idkmods (Official Trailer).mp4"
         }
     ]
 }
+
 
 
 
