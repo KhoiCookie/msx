@@ -14,7 +14,7 @@
             "icon": "movie-filter",
             "label": "Videos",
             "data": "https://khoicookie.github.io/msx/data/content/videos.json",
-            "extensionLabel": "17"
+            "extensionLabel": "19"
         },
         {
             "icon": "favorite",
@@ -32,6 +32,7 @@
         }
     ]
 }
+
 
 
 
