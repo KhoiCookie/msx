@@ -174,7 +174,7 @@
             "badgeColor": "msx-red",
             "title": "{col:msx-white-soft} i spin u around",
             "titleFooter": "{ico:access-time} 00:00:09",
-            "playerLabel": "Layla Haircut",
+            "playerLabel": "i spin u around",
             "image": "https://khoicookie.github.io/msx/data/images/i spin u around.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/i spin u around.mp4"
         },
@@ -275,6 +275,7 @@
         }
     ]
 }
+
 
 
 
