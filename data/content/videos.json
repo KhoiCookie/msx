@@ -125,9 +125,17 @@
             "playerLabel": "Smash Hit_ Idkmods (Official Trailer)",
             "image": "https://khoicookie.github.io/msx/data/images/Smash Hit_ Idkmods (Official Trailer).png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/Smash Hit_ Idkmods (Official Trailer).mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} i got slapped",
+            "titleFooter": "{ico:access-time} 00:03:33",
+            "playerLabel": "i got slapped",
+            "image": "https://khoicookie.github.io/msx/data/images/i got slapped.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/i got slapped.mp4"
         }
     ]
 }
+
 
 
 
