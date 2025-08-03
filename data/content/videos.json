@@ -31,9 +31,30 @@
             "playerLabel": "job run",
             "image": "https://khoicookie.github.io/msx/data/images/job run.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/job run.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "CountryMation",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} sSMCaa51 trailer",
+            "playerLabel": "destruction 3 2 1 in idk quality",
+            "image": "https://khoicookie.github.io/msx/data/images/sSMCaa51 trailer (countrymation).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/sSMCaa51 trailer (countrymation).mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "Windows7777",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} sSMCaa51 trailer",
+            "playerLabel": "destruction 3 2 1 in idk quality",
+            "image": "https://khoicookie.github.io/msx/data/images/sSMCaa51 trailer (windows7777).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/sSMCaa51 trailer (windows7777).mp4"
         }
     ]
 }
+
 
 
 
