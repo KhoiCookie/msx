@@ -202,8 +202,37 @@
             "playerLabel": "[PART 1] Mini World Let's Play! (ft. @wot69)",
             "image": "https://khoicookie.github.io/msx/data/images/[PART 1] Mini World Let's Play! (ft. @wot69).png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/[PART 1] Mini World Let's Play! (ft. @wot69).mp4"
-        }
+        },
+        {
+            "title": "{col:msx-white-soft} get real",
+            "titleFooter": "{ico:access-time} 00:00:45",
+            "playerLabel": "get real",
+            "image": "https://khoicookie.github.io/msx/data/images/get real.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/get real.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} pc gets nuked by a fake website (100 real no fake)",
+            "titleFooter": "{ico:access-time} 00:01:04",
+            "playerLabel": "pc gets nuked by a fake website (100 real no fake)",
+            "image": "https://khoicookie.github.io/msx/data/images/pc gets nuked by a fake website (100 real no fake).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/pc gets nuked by a fake website (100 real no fake).mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} nuke explosion",
+            "titleFooter": "{ico:access-time} 00:01:01",
+            "playerLabel": "nuke explosion",
+            "image": "https://khoicookie.github.io/msx/data/images/nuke explosion.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/nuke explosion.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} lobotomized europapa",
+            "titleFooter": "{ico:access-time} 00:00:26",
+            "playerLabel": "lobotomized europapa",
+            "image": "https://khoicookie.github.io/msx/data/images/lobotomized europapa.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/lobotomized europapa.mp4"
+        },
     ]
 }
+
 
 
