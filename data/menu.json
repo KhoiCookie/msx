@@ -20,7 +20,7 @@
             "icon": "favorite",
             "label": "Submissions",
             "data": "https://khoicookie.github.io/msx/data/content/submission/submission-list.json"
-        }
+        },
         {
             "type": "separator",
             "label": "Contact"
@@ -29,9 +29,10 @@
             "icon": "feedback",
             "label": "Feedback",
             "data": "https://khoicookie.github.io/msx/data/feedback.json"
-        },
+        }
     ]
 }
+
 
 
 
