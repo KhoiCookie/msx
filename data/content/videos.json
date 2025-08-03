@@ -4,6 +4,7 @@
     "template": {
         "type": "default",
         "layout": "0,0,4,2",
+        "imageFiller": "cover",
         "color": "msx-glass"
     },
     "items": [
@@ -33,6 +34,7 @@
         }
     ]
 }
+
 
 
 
