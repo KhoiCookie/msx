@@ -1,7 +1,8 @@
 {
     "pages": [
         {
-            "items": [
+            "type": "pages",
+	    "items": [
                 {
                     "type": "default",
                     "layout": "0,0,12,6",
@@ -21,6 +22,33 @@
 			"{ico:msx-blue:person} Learn more about the creator: {txt:msx-white:khoicookie.straw.page}{br}",
 			"{br}",
 			"{ico:msx-red:favorite} Powered by Media Station X!{br}"
+                    ]
+                }
+            ],
+	    "items": [
+		{
+		    "type": "default",
+		    "layout": "0,0,6,6",
+		    "color": "msx-glass",
+		    "imageFiller": "cover",
+		    "image": "https://khoicookie.github.io/msx/data/images/IMG_6142.jpg"
+		},
+                {
+                    "type": "default",
+                    "layout": "0,0,6,6",
+                    "color": "msx-glass",
+                    "headline": "Have questions?",
+                    "text": [
+                        "Contact me here: {txt:msx-red:banoimon75@gmail.com}",
+			"Or reach out through Discord: @khoicookie",
+			"{br}",
+			"⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆{br}",
+			"{br}",
+			"{txt:msx-red:Please do not spam my inboxes.}",
+			"{br}",
+			"───── ⋆⋅☆⋅⋆ ─────{br}",
+			"{br}",
+			"{ico:msx-blue:info}To submit your own video, contact me through Discord and we can talk."
                     ]
                 }
             ]
