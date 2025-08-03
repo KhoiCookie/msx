@@ -8,12 +8,6 @@
     },
     "items": [
         {
-            "type": "space",
-            "layout": "1,0,11,1",
-            "offset": "-1,0,1,-0.5",
-            "headline": "{ico:msx-blue:sports-kabaddi} • Animation {txt:msx-white-soft:(1)}"
-        },
-        {
             "type": "teaser",
             "tag": "OG",
             "tagColor": "msx-glass",
@@ -24,12 +18,6 @@
             "titleFooter": "Watch {txt:msx-white:Bean} jiggy it! :3",
             "playerLabel": "Bean's Jiggy",
             "action": "video:https://khoicookie.github.io/msx/data/videos/jiggy.mp4"
-        },
-        {
-            "type": "space",
-            "layout": "1,0,11,1",
-            "offset": "-1,0,1,-0.5",
-            "headline": "{ico:msx-red:pentagon} • Random {txt:msx-white-soft:(2)}"
         },
         {
             "title": "{col:msx-white-soft} destruction 3 2 1 in idk quality",
@@ -45,6 +33,7 @@
         }
     ]
 }
+
 
 
 
