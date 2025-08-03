@@ -139,9 +139,19 @@
             "playerLabel": "idkmods gameplay part 1",
             "image": "https://khoicookie.github.io/msx/data/images/idkmods gameplay part 1.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/idkmods gameplay part 1.mp4"
+        },
+        {
+            "tag": "no.",
+            "tagColor": "msx-glass",
+            "title": "{col:msx-white-soft} is khoicookie retroslop?",
+            "titleFooter": "{ico:access-time} 00:00:48",
+            "playerLabel": "is khoicookie retroslop?",
+            "image": "https://khoicookie.github.io/msx/data/images/is khoicookie retroslop.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/is khoicookie retroslop.mp4"
         }
     ]
 }
+
 
 
 
