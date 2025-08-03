@@ -1,31 +1,29 @@
 {
-    "menu": [{
-            "data": {               
-                "pages": [{                        
-                        "items": [{
-                                "type": "default",
-                                "layout": "0,0,12,6",                                 
-                                "color": "msx-glass",
-                                "headline": "Welcome to {app:name}",
-                                "text": [
-					"Starlightz is a streaming service developed by {txt:msx-blue:KhoiCookie!}{br}",
-					"{br}",
-					"✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦{br}",
-					"{br}",
-					"This service is intended for {txt:msx-red:personal use only} and is not intended for the public.{br}",
-					"{br}",
-					"✿　.　˚　. 　 ˚　✿.{br}",
-					"{br}",
-					"{ico:msx-white:play-arrow} This project is still in development, as it lacks a lot of stuff and funzies.{br}",
-					"{ico:msx-blue:info} Check out Starlightz on GitHub: {txt:msx-white:github.com/KhoiCookie/msx}{br}",
-					"{ico:msx-blue:person} Learn more about the creator: {txt:msx-white:khoicookie.straw.page}{br}",
-					"{br}",
-					"{ico:msx-red:favorite} Powered by Media Station X!{br}"
-					]
-                            }]
-                    }, {
-                    }]
-            }      
+    "pages": [
+        {
+            "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    "headline": "/ᐠ - ˕ -マ⁩࿔ . Welcome to Starlightz .ᐟ ›",
+                    "text": [
+                        "Starlightz is a streaming service developed by {txt:msx-blue:KhoiCookie!}{br}",
+			"{br}",
+			"✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦{br}",
+			"{br}",
+			"This service is intended for {txt:msx-red:personal use only} and is not intended for the public.{br}",
+			"{br}",
+			"✿　.　˚　. 　 ˚　✿.{br}",
+			"{br}",
+			"{ico:msx-white:play-arrow} This project is still in development, as it lacks a lot of stuff and funzies.{br}",
+			"{ico:msx-blue:info} Check out Starlightz on GitHub: {txt:msx-white:github.com/KhoiCookie/msx}{br}",
+			"{ico:msx-blue:person} Learn more about the creator: {txt:msx-white:khoicookie.straw.page}{br}",
+			"{br}",
+			"{ico:msx-red:favorite} Powered by Media Station X!{br}"
+                    ]
+                }
+            ]
         }
     ]
 }
