@@ -8,7 +8,8 @@
         },
         {
             "type": "separator",
-            "label": "Content"
+            "label": "{col:#a8e2ff}Content"
+            "lineColor": "#a8e2ff"
         },
         {
             "icon": "movie-filter",
@@ -49,6 +50,7 @@
         }
     ]
 }
+
 
 
 
