@@ -1,0 +1,26 @@
+{
+    "pages": [
+        {
+            "type": "pages",
+	          "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,9,6",
+                    "color": "msx-glass",
+                    "headline": "Version 0.2beta - Changes",
+                    "text": [
+                        "For new things, check out {ico:msx-white:new-releases} {col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w.{br}",
+			                  "{txt:msx-white-soft:- Added new gradients.}"
+                    ]
+                },
+                {
+		              "type": "default",
+		              "layout": "0,0,3,6",
+		              "color": "msx-glass",
+		              "imageFiller": "cover",
+		              "image": "https://khoicookie.github.io/msx/data/images/Untitled83_20250805012951.png"
+        	    	},
+            ]
+        }
+    ]
+}
