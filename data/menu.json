@@ -3,7 +3,7 @@
     "menu": [
         {
             "icon": "#abd2ff:star",
-            "label": "{col:#abd2ff}H{col:#84abd9}e{col:#5f84b0}l{col:#406087}l{col:#263f5e}o{col:#132338}!",
+            "label": "{col:#abd2ff}H{col:#94bceb}e{col:#82aad9}l{col:#6e95c2}l{col:#5e83ad}o{col:#4f739c}!",
             "data": "https://khoicookie.github.io/msx/data/welcome.json"
         },
         {
@@ -33,6 +33,7 @@
         }
     ]
 }
+
 
 
 
