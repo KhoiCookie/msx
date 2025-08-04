@@ -2,5 +2,5 @@
     "name": "Starlightz",
     "version": "1.0.0",
     "parameter": "menu:https://khoicookie.github.io/msx/data/menu.json",
-    "extension": "{msx-white:calendar-month} {now:date:DD, MM d, yyyy} {msx-white:access-time} {now:time:h:mm:ss/ampm}"
+    "extension": "{ico:calendar-month} {now:date:DD, MM d, yyyy} {ico:access-time} {now:time:h:mm:ss/ampm}"
 }
