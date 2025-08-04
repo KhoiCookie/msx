@@ -5,7 +5,7 @@
 	          "items": [
                 {
                     "type": "default",
-                    "layout": "0,0,12,6",
+                    "layout": "0,0,9,6",
                     "color": "msx-glass",
                     "headline": "Version 0.2beta - New pages",
                     "text": [
@@ -15,8 +15,16 @@
 			                  "{br}",
 	                  		"{txt:msx-white-soft:More will be added here.}"
                     ]
-                }
+                },
+			  {
+		              "type": "default",
+		              "layout": "0,0,3,6",
+		              "color": "msx-glass",
+		              "imageFiller": "cover",
+		              "image": "https://khoicookie.github.io/msx/data/images/Untitled83_20250805012951.png"
+        	    	},
             ]
         }
     ]
 }
+
