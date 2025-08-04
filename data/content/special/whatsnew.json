@@ -10,22 +10,23 @@
                     "headline": "Version 0.2beta - New pages",
                     "text": [
                         "- Added 2 new pages:{br}",
-			                  "{ico:msx-white:new-releases} {col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w{br}",
-			                  "{ico:msx-white:auto-mode {col:#c987ff}C{col:#b587ff}h{col:#a587ff}a{col:#9387ff}n{col:#879dff}g{col:#87afff}e{col:#87c3ff}l{col:#87d5ff}o{col:#87e5ff}g{col:#87f5ff}s}{br}",
-			                  "{br}",
-	                  		"{txt:msx-white-soft:More will be added here.}"
+	                "{ico:msx-white:new-releases} {col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w{br}",
+	                "{ico:msx-white:auto-mode {col:#c987ff}C{col:#b587ff}h{col:#a587ff}a{col:#9387ff}n{col:#879dff}g{col:#87afff}e{col:#87c3ff}l{col:#87d5ff}o{col:#87e5ff}g{col:#87f5ff}s}{br}",
+		        "{br}",
+	                "{txt:msx-white-soft:More will be added here.}"
                     ]
                 },
-			  {
-		              "type": "default",
-		              "layout": "0,0,3,6",
-		              "color": "msx-glass",
-		              "imageFiller": "cover",
-		              "image": "https://khoicookie.github.io/msx/data/images/Untitled83_20250805012951.png"
-        	    	}
+		{
+		   "type": "default",
+		   "layout": "0,0,3,6",
+		   "color": "msx-glass",
+	           "imageFiller": "cover",
+		   "image": "https://khoicookie.github.io/msx/data/images/Untitled83_20250805012951.png"
+        	}
             ]
         }
     ]
 }
+
 
 
