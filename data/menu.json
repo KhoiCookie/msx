@@ -2,19 +2,20 @@
     "headline": "Starlightz",
     "menu": [
         {
-            "icon": "#4098e6:star",
-            "label": "Hello!",
+            "icon": "#abd2ff:star",
+            "label": "{col:#abd2ff}H{col:#84abd9}e{col:#5f84b0}l{col:#406087}l{col:#263f5e}o{col:#132338}!",
             "data": "https://khoicookie.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
-            "label": "{col:#f59584}C{col:#f5d584}o{col:#9bf584}n{col:#84f5f3}t{col:#84b1f5}e{col:#8a84f5}n{col:#c684f5}t"
+            "label": "Content"
         },
         {
             "icon": "movie-filter",
             "label": "Videos",
             "data": "https://khoicookie.github.io/msx/data/content/videos.json",
             "extensionLabel": "28"
+            "extensionIcon": "keyboard-arrow-right"
         },
         {
             "icon": "favorite",
@@ -32,6 +33,7 @@
         }
     ]
 }
+
 
 
 
