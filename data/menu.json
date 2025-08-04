@@ -2,13 +2,13 @@
     "headline": "Starlightz",
     "menu": [
         {
-            "icon": "star",
+            "icon": "#4098e6:star",
             "label": "Hello!",
             "data": "https://khoicookie.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
-            "label": "Content"
+            "label": "{col:#f59584}C{col:#f5d584}o{col:#9bf584}n{col:#84f5f3}t{col:#84b1f5}e{col:#8a84f5}n{col:#c684f5}t"
         },
         {
             "icon": "movie-filter",
@@ -32,6 +32,7 @@
         }
     ]
 }
+
 
 
 
