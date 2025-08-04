@@ -1,6 +1,6 @@
 {    
     "name": "Starlightz",
-    "version": "1.0.0",
+    "version": "v0.2b",
     "parameter": "menu:https://khoicookie.github.io/msx/data/menu.json",
     "extension": "{ico:calendar-month} {now:date:DD, MM d, yyyy} {ico:access-time} {now:time:h:mm:ss/ampm}"
 }
