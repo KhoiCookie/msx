@@ -8,7 +8,7 @@
         },
         {
             "type": "separator",
-            "label": "{col:#a8e2ff}Content"
+            "label": "{col:#a8e2ff}Content",
             "lineColor": "#a8e2ff"
         },
         {
@@ -50,6 +50,7 @@
         }
     ]
 }
+
 
 
 
