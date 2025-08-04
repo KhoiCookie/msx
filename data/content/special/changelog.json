@@ -5,7 +5,7 @@
 	          "items": [
                 {
                     "type": "default",
-                    "layout": "0,0,9,6",
+                    "layout": "0,0,12,6",
                     "color": "msx-glass",
                     "headline": "Version 0.2beta - Changes",
                     "text": [
