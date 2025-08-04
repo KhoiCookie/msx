@@ -14,8 +14,7 @@
             "icon": "movie-filter",
             "label": "Videos",
             "data": "https://khoicookie.github.io/msx/data/content/videos.json",
-            "extensionLabel": "28",
-            "extensionIcon": "keyboard-arrow-right"
+            "extensionLabel": "29"
         },
         {
             "icon": "favorite",
@@ -24,15 +23,33 @@
         },
         {
             "type": "separator",
+            "label": "{col:#ff8a8a}B{col:#ffd18c}u{col:#fdff8c}l{col:#deff8c}l{col:#94ff8c}e{col:#8cffba}t{col:#8ffff2}i{col:#8fd0ff}n {col:#938fff}B{col:#cd8fff}o{col:#f98cff}a{col:#ff85d2}r{col:#ff808e}d",
+            "lineColor": "#ff8a8a"
+        },
+        {
+            "icon": "#b6fc90:new-releases",
+            "label": "{col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w",
+            "data": "https://khoicookie.github.io/msx/data/content/special/whatsnew.json"
+        },
+        {
+            "icon": "#c987ff:auto-mode",
+            "label": "{col:#c987ff}C{col:#b587ff}h{col:#a587ff}a{col:#9387ff}n{col:#879dff}g{col:#87afff}e{col:#87c3ff}l{col:#87d5ff}o{col:#87e5ff}g{col:#87f5ff}s",
+            "data": "https://khoicookie.github.io/msx/data/content/special/changelog.json",
+            "extensionLabel": "v0.2b"
+        },
+        {
+            "type": "separator",
             "label": "Contact"
         },
         {
             "icon": "feedback",
             "label": "Feedback",
-            "data": "https://khoicookie.github.io/msx/data/feedback.json"
+            "data": "https://khoicookie.github.io/msx/data/feedback.json",
+            "extensionIcon": "keyboard-arrow-right"
         }
     ]
 }
+
 
 
 
