@@ -218,7 +218,7 @@
                     "selection": {
                         "headline": "Show all"
                     },
-                    "action": "info:{This submission list doesn't have enough videos to display all.}"
+                    "action": "content:https://khoicookie.github.io/msx/data/content/submission/windows7777submissionlist.json"
                 }
             ]
         },
@@ -257,6 +257,7 @@
         }
     ]
 }
+
 
 
 
