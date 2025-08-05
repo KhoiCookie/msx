@@ -274,9 +274,28 @@
             "playerLabel": "ice asmr or smth",
             "image": "https://khoicookie.github.io/msx/data/images/ice asmr or smth.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/ice asmr or smth.mp4"
+        },
+        {
+            "tag": "☼",
+            "tagColor": "msx-glass",
+            "title": "spawnism destruction part 1",
+            "titleFooter": "{ico:access-time} 00:25:02",
+            "playerLabel": "spawnism destruction part 1",
+            "image": "https://khoicookie.github.io/msx/data/images/spawnism destruction part 1.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/spawnism destruction part 1.mp4"
+        },
+        {
+            "tag": "☼",
+            "tagColor": "msx-glass",
+            "title": "spawnism destruction part 2",
+            "titleFooter": "{ico:access-time} 00:43:06",
+            "playerLabel": "spawnism destruction part 2",
+            "image": "https://khoicookie.github.io/msx/data/images/spawnism destruction part 2.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/spawnism destruction part 2.mp4"
         }
     ]
 }
+
 
 
 
