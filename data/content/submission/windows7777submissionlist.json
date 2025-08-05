@@ -1,0 +1,89 @@
+{
+    "type": "list",
+    "headline": "Windows7777's Submissions",
+    "preload": "next",
+    "template": {
+        "type": "default",
+        "layout": "0,1,3,3",
+        "wrapperColor": "msx-glass",
+        "color": "msx-glass",
+        "imageFiller": "cover"
+    },
+    "items": [
+        {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageHeight": 1.75,
+                    "group": "id:page0",
+                    "layout": "0,1,3,3",
+                    "offset": "0,-0.5,0,0",
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}apple",
+                    "titleFooter": "{ico:access-time} 00:00:11{br}apple",
+                    "imageFiller": "cover",
+                    "playerLabel": "apple",
+                    "image": "https://khoicookie.github.io/msx/data/images/apple.png",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/apple.mp4"
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageHeight": 1.75,
+                    "group": "id:page0",
+                    "layout": "3,1,3,3",
+                    "offset": "0,-0.5,0,0",
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}job puzzle",
+                    "titleFooter": "{ico:access-time} 00:00:39{br}solve the puzzle for job",
+                    "imageFiller": "cover",
+                    "playerLabel": "job puzzle",
+                    "image": "https://khoicookie.github.io/msx/data/images/job puzzle.png",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/job puzzle.mp4"
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageHeight": 1.75,
+                    "group": "id:page0",
+                    "layout": "6,1,3,3",
+                    "offset": "0,-0.5,0,0",
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}job jumpscare",
+                    "titleFooter": "{ico:access-time} 00:00:09{br}aaAhaHHHHh",
+                    "imageFiller": "cover",
+                    "playerLabel": "job jumpscare",
+                    "image": "https://khoicookie.github.io/msx/data/images/job jumpscare.png",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/job jumpscare.mp4"
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageHeight": 1.75,
+                    "group": "id:page0",
+                    "layout": "9,1,3,3",
+                    "offset": "0,-0.5,0,0",
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}break camera",
+                    "titleFooter": "{ico:access-time} 00:00:16{br}its broken lmao",
+                    "imageFiller": "cover",
+                    "playerLabel": "break camera",
+                    "image": "https://khoicookie.github.io/msx/data/images/break camera.png",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/break camera.mp4"
+                },
+                {
+                    "type": "default",
+                    "wrapperColor": "msx-glass",
+                    "imageHeight": 1.75,
+                    "group": "id:page0",
+                    "layout": "9,1,3,3",
+                    "offset": "0,-0.5,0,0",
+                    "color": "msx-glass",
+                    "titleHeader": "{col:msx-white}oh noooo fishh",
+                    "titleFooter": "{ico:access-time} 00:00:07{br}what the fuck",
+                    "imageFiller": "cover",
+                    "playerLabel": "break camera",
+                    "image": "https://khoicookie.github.io/msx/data/images/oh noooo fishh.png",
+                    "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/oh noooo fishh.mp4"
+                }
+    ]
+}
