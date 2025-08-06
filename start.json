@@ -1,6 +1,5 @@
 {    
     "name": "Starlightz",
     "version": "v0.2b",
-    "parameter": "menu:https://khoicookie.github.io/msx/data/menu.json",
-    "extension": "test"
+    "parameter": "menu:https://khoicookie.github.io/msx/data/menu.json"
 }
