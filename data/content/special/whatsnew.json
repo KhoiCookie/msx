@@ -12,9 +12,9 @@
                         "- Added 2 new pages:{br}",
 	                "{ico:msx-white:new-releases} {col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w{br}",
 	                "{ico:msx-white:auto-mode} {col:#c987ff}C{col:#b587ff}h{col:#a587ff}a{col:#9387ff}n{col:#879dff}g{col:#87afff}e{col:#87c3ff}l{col:#87d5ff}o{col:#87e5ff}g{col:#87f5ff}s{br}",
-		        "{br}",
+		        "{ico:msx-white:favorite} {col:#ffffff}Windows7777's Submissions",
+			"{br}",
 			"{txt:msx-white-soft:- Added backgrounds for every section}{br}",
-			"{txt:msx-white-soft:-
 	                "{txt:msx-white-soft:More will be added here.}"
                     ]
                 },
@@ -29,6 +29,7 @@
         }
     ]
 }
+
 
 
 
