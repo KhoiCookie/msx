@@ -1,44 +1,47 @@
-# 🌌 Starlightz
+# .☘︎ ݁˖ ⌞starlightz⌝ ⸝⸝ ⭑ .ᐟ
 
-**Starlightz** is a personal streaming service. — powered by [Media Station X](https://msx.benzac.de/) and hosted on GitHub Pages.  
-
-- - -
-
-## 🚀 How to Use It on Media Station X
-
-1. Launch **Media Station X** on your TV or device.
-2. Navigate to: `Settings > Start Parameters`
-3. Enter this full URL:
-
-### khoicookie.github.io
-(don't forget to click the lock for HTTP requests!)
-
-4. Save it, back out of settings, and boom — welcome to Starlightz ✨
+**starlightz** is a streaming service, powered by [Media Station X](https://msx.benzac.de/) and hosted on github pages :3
 
 - - -
 
-## 💿 What is This?
+## ‧˚꒰🧶꒱ what is this exactly? ⭑₊˚⋆ .ᐣ
 
-Starlightz is a fully static, JSON-powered media interface that runs directly in Media Station X.  
-It looks like a streaming app, but it's really just some spicy HTML, CSS, and JSON magic hosted on GitHub.
+it is a *personal* streaming service developed solely by khoicookie.
+the project is personal and is not meant for commercial uses.
 
-You can stream:
-
-- 🎬 Videos & clips from the lists
-- 🎉 Meme clips, local content, or anything that MSX supports
+the service is still in **beta** and lacks features but it is improving!
+ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 - - -
 
-## 💖 Why?
+## ‧˚꒰☁︎꒱ how to access ⭑₊˚⋆ .ᐟ
 
-Because it’s fun.  
-Because MSX is underrated.  
-Because you can literally make your own Netflix with just a GitHub repo and 10 braincells.
+### 1. go to settings ✦
+⋆˙⟡ ⁀➴
+![click on settings](https://khoicookie.github.io/msx/data/images/tutorial/step%201.png)
+### 2. start parameter ✦
+⋆˙⟡ ⁀➴
+![click on start parameter](https://khoicookie.github.io/msx/data/images/tutorial/step%202.png)
+### 3. click on setup > continue ✦
+⋆˙⟡ ⁀➴
+![setup > continue](https://khoicookie.github.io/msx/data/images/tutorial/step%203.png)
+### 4. type in "khoicookie.github.io" and click on checkmark ✦
+⋆˙⟡ ⁀➴
+![type in "khoicookie.github.io" and click on checkmark](https://khoicookie.github.io/msx/data/images/tutorial/step%204.png)
+ദ്ദി（• ˕ •マ.ᐟ
 
-## 💬 Feedback / Support
+- - -
 
-Found a bug? Want to suggest a feature? Want me to kiss your README too?  
-Open an [issue](https://github.com/<your-github-username>/Starlightz/issues) or create a pull request.  
-You can also reach out via Discord, or just scream into the void — I might hear it.
+## ‧˚꒰🐟꒱ why did i do this ⭑₊˚⋆ .ᐣ
 
-Made with 💜 by KhoiCookie 
+idk. when i discovered media station x i began making this instantly :3
+just out of boredom, really!
+
+ฅ≽(•⩊ •マ≼
+
+- - -
+
+⸜(｡˃ ᵕ ˂ )⸝♡
+made with 💙 by khoicookie 
+
+୧ ‧₊˚ 🍮 ⋅ ☆
