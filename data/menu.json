@@ -1,4 +1,7 @@
 {
+    "style": "default",
+    "logo": "https://khoicookie.github.io/msx/logo_menu.png",   
+    "logoSize": "large",
     "headline": "Starlightz",
     "menu": [
         {
@@ -56,6 +59,7 @@
         }
     ]
 }
+
 
 
 
