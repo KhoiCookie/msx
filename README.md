@@ -1,10 +1,10 @@
-# .☘︎ ݁˖ ⌞starlightz⌝ ⸝⸝ ⭑ .ᐟ
+![# .☘︎ ݁˖ ⌞starlightz⌝ ⸝⸝ ⭑ .ᐟ](https://khoicookie.github.io/msx/logo_small.png)
 
 **starlightz** is a streaming service, powered by [Media Station X](https://msx.benzac.de/) and hosted on github pages :3
 
 - - -
 
-## ‧˚꒰🧶꒱ what is this exactly? ⭑₊˚⋆ .ᐣ
+## ‧˚꒰📘꒱ what is this exactly? ⭑₊˚⋆ .ᐣ
 
 it is a *personal* streaming service developed solely by khoicookie.
 the project is personal and is not meant for commercial uses.
