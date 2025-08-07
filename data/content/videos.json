@@ -292,9 +292,17 @@
             "playerLabel": "spawnism destruction part 2",
             "image": "https://khoicookie.github.io/msx/data/images/spawnism destruction part 2.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/spawnism destruction part 2.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} olek server nuke event",
+            "titleFooter": "{ico:access-time} 00:02:39",
+            "playerLabel": "olek server nuke event",
+            "image": "https://khoicookie.github.io/msx/data/images/olek server nuke event.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/olek server nuke event.mp4"
         }
     ]
 }
+
 
 
 
