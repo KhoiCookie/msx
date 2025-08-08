@@ -363,7 +363,7 @@
             "badgeColor": "msx-white",
             "title": "{col:msx-white-soft} Episode 3: Flute Lessons",
             "titleFooter": "{ico:access-time} 00:03:48",
-            "playerLabel": "Collab Adventures (@TheRealCountryMations & @akiruhoney) | Episode 2: Mint and Parfait's Concert",
+            "playerLabel": "Collab Adventures (@TheRealCountryMations & @akiruhoney) | Episode 3: Flute Lessons",
             "image": "https://khoicookie.github.io/msx/data/images/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 3_ Flute Lessons.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 3_ Flute Lessons.mp4"
         },
@@ -382,8 +382,8 @@
             "title": "{col:msx-white-soft} Music Visualizer Test #1",
             "titleFooter": "{ico:access-time} 00:02:15",
             "playerLabel": "Music Visualizer Test #1",
-            "image": "https://khoicookie.github.io/msx/data/images/Music Visualizer Test #1.png",
-            "action": "video:https://khoicookie.github.io/msx/data/videos/Music Visualizer Test #1.mp4"
+            "image": "https://khoicookie.github.io/msx/data/images/Music Visualizer Test 1.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Music Visualizer Test 1.mp4"
         },
         {
             "title": "{col:msx-white-soft} i used my bestest combo",
@@ -401,6 +401,7 @@
         }
     ]
 }
+
 
 
 
