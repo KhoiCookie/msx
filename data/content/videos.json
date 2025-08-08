@@ -18,8 +18,6 @@
             "action": "[invalidate:content|reload:content]"
         },
         {
-            "tag": "New",
-            "tagColor": "msx-yellow",
             "type": "default",
             "color": "msx-glass",
             "icon": "msx-white-soft:shuffle",
@@ -299,9 +297,111 @@
             "playerLabel": "olek server nuke event",
             "image": "https://khoicookie.github.io/msx/data/images/olek server nuke event.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/olek server nuke event.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "KhoiCookie & wot69",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} smash hit mini world edition",
+            "titleFooter": "{ico:access-time} 00:00:28",
+            "playerLabel": "smash hit mini world edition",
+            "image": "https://khoicookie.github.io/msx/data/images/smash hit mini world edition.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/smash hit mini world edition.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "title": "{col:msx-white-soft} smash hit custom checkpoints",
+            "titleFooter": "{ico:access-time} 00:00:15",
+            "playerLabel": "smash hit custom checkpoints",
+            "image": "https://khoicookie.github.io/msx/data/images/smash hit custom checkpoints.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/smash hit custom checkpoints.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "title": "{col:msx-white-soft} Smash Hit Mini World Edition OST",
+            "titleFooter": "{ico:access-time} 00:06:16",
+            "playerLabel": "Smash Hit Mini World Edition OST",
+            "image": "https://khoicookie.github.io/msx/data/images/Smash Hit Mini World Edition OST.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Smash Hit Mini World Edition OST.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} speedrun of making a case simulator game (CookieCase 2)",
+            "titleFooter": "{ico:access-time} 00:05:27",
+            "playerLabel": "speedrun of making a case simulator game (CookieCase 2)",
+            "image": "https://khoicookie.github.io/msx/data/images/speedrun of making a case simulator game (CookieCase 2).png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/speedrun of making a case simulator game (CookieCase 2).mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "Collab Adventures",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} Episode 1: A Normal Weekend",
+            "titleFooter": "{ico:access-time} 00:02:56",
+            "playerLabel": "Collab Adventures (@TheRealCountryMations & @akiruhoney) | Episode 1: A Normal Weekend",
+            "image": "https://khoicookie.github.io/msx/data/images/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 1_ A Normal Weekend.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 1_ A Normal Weekend.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "Collab Adventures",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} Episode 2: Mint and Parfait's Concert",
+            "titleFooter": "{ico:access-time} 00:03:53",
+            "playerLabel": "Collab Adventures (@TheRealCountryMations & @akiruhoney) | Episode 2: Mint and Parfait's Concert",
+            "image": "https://khoicookie.github.io/msx/data/images/Collab Adventures (@TheRealCountryMations & @akiruhoney) Episode 2 Mint and Parfaits Concert.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Collab Adventures (@TheRealCountryMations & @akiruhoney) Episode 2 Mint and Parfaits Concert.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "Collab Adventures",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} Episode 3: Flute Lessons",
+            "titleFooter": "{ico:access-time} 00:03:48",
+            "playerLabel": "Collab Adventures (@TheRealCountryMations & @akiruhoney) | Episode 2: Mint and Parfait's Concert",
+            "image": "https://khoicookie.github.io/msx/data/images/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 3_ Flute Lessons.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 3_ Flute Lessons.mp4"
+        },
+        {
+            "tag": "★",
+            "tagColor": "msx-glass",
+            "badge": "Collab Adventures",
+            "badgeColor": "msx-white",
+            "title": "{col:msx-white-soft} Episode 4: The Awakening",
+            "titleFooter": "{ico:access-time} 00:02:47",
+            "playerLabel": "Collab Adventures (@TheRealCountryMations & @akiruhoney) | Episode 4: The Awakening",
+            "image": "https://khoicookie.github.io/msx/data/images/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 4_ The Awakening.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Collab Adventures (@TheRealCountryMations & @akiruhoney)  Episode 4_ The Awakening.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} Music Visualizer Test #1",
+            "titleFooter": "{ico:access-time} 00:02:15",
+            "playerLabel": "Music Visualizer Test #1",
+            "image": "https://khoicookie.github.io/msx/data/images/Music Visualizer Test #1.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Music Visualizer Test #1.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} i used my bestest combo",
+            "titleFooter": "{ico:access-time} 00:01:05",
+            "playerLabel": "i used my bestest combo",
+            "image": "https://khoicookie.github.io/msx/data/images/i used my bestest combo.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/i used my bestest combo.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} Testing Credits and New Textures | Smash Hit: idkmods",
+            "titleFooter": "{ico:access-time} 00:01:54",
+            "playerLabel": "Testing Credits and New Textures | Smash Hit: idkmods",
+            "image": "https://khoicookie.github.io/msx/data/images/Testing Credits and New Textures  Smash Hit_ idkmods.png",
+            "action": "video:https://khoicookie.github.io/msx/data/videos/Testing Credits and New Textures  Smash Hit_ idkmods.mp4"
         }
     ]
 }
+
 
 
 
