@@ -86,6 +86,7 @@
                     "action": "video:https://khoicookie.github.io/msx/data/videos/submissions/oh noooo fishh.mp4"
                 },
                 {
+                    "badge": "✦ Featured",
                     "type": "default",
                     "wrapperColor": "msx-glass",
                     "imageHeight": 1.75,
