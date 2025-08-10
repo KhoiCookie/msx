@@ -1,0 +1,20 @@
+{
+    "pages": [
+        {
+            "type": "pages",
+	          "items": [
+                {
+                    "type": "default",
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    "headline": ".",
+                    "centration": "text",
+                    "text": [
+                        "No announcements yet.",
+			                  "{txt:msx-white-soft:Check back later}"
+                    ]
+                }
+            ]
+        }
+    ]
+}
