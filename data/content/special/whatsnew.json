@@ -13,7 +13,7 @@
 	                "{ico:msx-white:new-releases} {col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w{br}",
 	                "{ico:msx-white:auto-mode} {col:#c987ff}C{col:#b587ff}h{col:#a587ff}a{col:#9387ff}n{col:#879dff}g{col:#87afff}e{col:#87c3ff}l{col:#87d5ff}o{col:#87e5ff}g{col:#87f5ff}s{br}",
 		       	 	"{ico:msx-white:favorite} {col:#ffffff}Windows7777's Submissions",
-					"{ico:msx-white:assistant} {col:#ffdea6}A{col:#ffd691}n{col:#ffcd78}n{col:#ffc563}o{col:#ffbc4d}u{col:#ffb840}n{col:#ffb230}c{col:#ffac21}e{col:#ffa712}m{col:#ffa000}e{col:#e38e00}n{col:#c97e00}t{col:#ab6b00}s",
+					"{ico:msx-white:assistant} {col:#ffdea6}A{col:#ffd691}n{col:#ffcd78}n{col:#ffc563}o{col:#ffbc4d}u{col:#ffb840}n{col:#ffb230}c{col:#ffac21}e{col:#ffa712}m{col:#ffa000}e{col:#e38e00}n{col:#c97e00}t{col:#ab6b00}s{br}",
 					"{br}",
 					"{txt:msx-white-soft:- Added backgrounds for every section}{br}",
 					"{txt:msx-white-soft:- The logo for Starlightz is now designed and published!!}{br}",
@@ -32,6 +32,7 @@
         }
     ]
 }
+
 
 
 
