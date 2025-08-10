@@ -34,6 +34,12 @@
             "lineColor": "#ff8a8a"
         },
         {
+            "icon": "#ffdea6:assistant",
+            "label": "{col:#ffdea6}A{col:#ffd691}n{col:#ffcd78}n{col:#ffc563}o{col:#ffbc4d}u{col:#ffb840}n{col:#ffb230}c{col:#ffac21}e{col:#ffa712}m{col:#ffa000}e{col:#e38e00}n{col:#c97e00}t{col:#ab6b00}s",
+            "background": "https://khoicookie.github.io/msx/data/images/background/announcements.png",
+            "data": "https://khoicookie.github.io/msx/data/content/special/announcements.json"
+        },
+        {
             "icon": "#b6fc90:new-releases",
             "label": "{col:#b6fc90}W{col:#9ae670}h{col:#7fc957}a{col:#6eb846}t{col:#5fa838}'{col:#529c2a}s {col:#44871f}N{col:#3a7818}e{col:#2f6610}w",
             "background": "https://khoicookie.github.io/msx/data/images/background/whatsnew.png",
@@ -59,6 +65,7 @@
         }
     ]
 }
+
 
 
 
