@@ -196,7 +196,7 @@
                     "offset": "0,-0.5,0,0",
                     "color": "msx-glass",
                     "titleHeader": "{col:msx-white}freaky artful and pursuer VS one survivor",
-                    "titleFooter": "{ico:access-time} 00:00:03{br}I got this skin and I’m obsessed with using artful now",
+                    "titleFooter": "{ico:access-time} 00:00:45{br}I got this skin and I’m obsessed with using artful now",
                     "imageFiller": "cover",
                     "playerLabel": "freaky artful and pursuer VS one survivor",
                     "image": "https://khoicookie.github.io/msx/data/images/freaky artful and pursuer VS one survivor.png",
@@ -369,6 +369,7 @@
         }
     ]
 }
+
 
 
 
