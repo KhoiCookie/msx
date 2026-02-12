@@ -7,10 +7,10 @@
                     "type": "default",
                     "layout": "0,0,12,6",
                     "color": "msx-glass",
-                    "headline": ".",
+                    "headline": "{ico:msx-white:access-time-filled} Sorry for the disappearance...",
                     "centration": "text",
                     "text": [
-                        "No announcements yet.",
+                        "Hello! It's me, and this is literally the first ever announcement made on here.{br}{br}This is just a reminder to tell you guys that I'm not gone or anything like that hehe, it's just that I forgot that this even existed and so I wanna work on it again but this time with some experiments.{br}I will soon transition my media into an separate server and not GitHub anymore, I am afraid that the repo might reached it's limit (if there is) so I hope it's not too late.{br}{br}Anyways, thanks for reading and I'll see you guys later.{br}- KhoiCookie :3",
 			                  "{txt:msx-white-soft:Check back later}"
                     ]
                 }
