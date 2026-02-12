@@ -398,9 +398,17 @@
             "playerLabel": "Testing Credits and New Textures | Smash Hit: idkmods",
             "image": "https://khoicookie.github.io/msx/data/images/Testing Credits and New Textures  Smash Hit_ idkmods.png",
             "action": "video:https://khoicookie.github.io/msx/data/videos/Testing Credits and New Textures  Smash Hit_ idkmods.mp4"
+        },
+        {
+            "title": "{col:msx-white-soft} Niko Oneshot 1",
+            "titleFooter": "{ico:access-time} 00:00:07",
+            "playerLabel": "Niko Oneshot 1",
+            "image": "https://starlightz.rf.gd/starlightzhost/thumbnail/niko_oneshot.png",
+            "action": "video:https://starlightz.rf.gd/starlightzhost/videos/niko_oneshot.mp4"
         }
     ]
 }
+
 
 
 
